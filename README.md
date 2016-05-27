@@ -1,5 +1,5 @@
 # Egg-Life
-####by Claire Hu
+                                                                              by Claire Hu
 ###Game about the life of an egg.
 
 The Egg Character looks like this
@@ -8,8 +8,7 @@ The Egg Character looks like this
 
 --
 
-**A quick demo of the first sketch here:**
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HV11VHj7Sjc" frameborder="0" allowfullscreen></iframe>
+**A quick demo[https://www.youtube.com/embed/HV11VHj7Sjc] of the first sketch is on Youtube.**
 
-
-It's an on-going project, there will be more features coming!
+-
+It's an on-going project, and there will be more features coming!
