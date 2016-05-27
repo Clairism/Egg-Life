@@ -4,7 +4,7 @@
 
 The Egg Character looks like this
 
-<img src="https://github.com/Clairism/Egg-Life/blob/master/Demo/The%20Egg%20character.png" width="400">
+<img src="https://github.com/Clairism/Egg-Life/blob/master/First Sketch/Demo/The%20Egg%20character.png" width="400">
 
 
 ##First Prototype
