@@ -8,7 +8,7 @@ The Egg Character looks like this
 
 --
 
-**[A quick demo](https://www.youtube.com/embed/HV11VHj7Sjc) of the first sketch is on Youtube.**
+##[A quick demo](https://www.youtube.com/embed/HV11VHj7Sjc) of the first sketch is on Youtube.
 
 -
 It's an on-going project, and there will be more features coming!
