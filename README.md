@@ -1,4 +1,5 @@
-# Egg-Life by Claire Hu
+# Egg-Life
+####by Claire Hu
 ###Game about the life of an egg.
 
 The Egg Character looks like this
